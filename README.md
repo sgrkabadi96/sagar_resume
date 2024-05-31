@@ -1,5 +1,5 @@
 
-### This is My Wb Resume Made With
+### This is My Web Resume Made With
 <ul>
 <li> HTML </li>
 <li> CSS </li>
